@@ -1,0 +1,27 @@
+自动绑定代码规则：
+xxx_xxx
+        {"Trans","Transform" },
+        {"OldAnim","Animation"}, 
+        {"NewAnim","Animator"},
+
+        {"Rect","RectTransform"},
+        {"Canvas","Canvas"},
+        {"Group","CanvasGroup"},
+        {"VGroup","VerticalLayoutGroup"},
+        {"HGroup","HorizontalLayoutGroup"},
+        {"GGroup","GridLayoutGroup"},
+        {"TGroup","ToggleGroup"},
+
+        {"Btn","UIButtonSuper"},
+        {"Img","Image"},
+        {"RImg","RawImage"},
+        {"Txt","Text"},
+        {"Input","InputField"},
+        {"Slider","Slider"},
+        {"Mask","Mask"},
+        {"Mask2D","RectMask2D"},
+        {"Tog","Toggle"},
+        {"Sbar","Scrollbar"},
+        {"SRect","ScrollRect"},
+        {"Drop","Dropdown"},
+        {"USpriteAni","UGUISpriteAnimation"},
